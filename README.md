@@ -14,15 +14,19 @@
 
 ###
 
-<h6 align="left">💬 Feel free to ask me about C++, Qt, AWS, GCP, GitLab, Docker, DevOps, and Generative AI</h6>
+💬 Feel free to ask me about C++, Qt, AWS, GCP, GitLab, Docker, DevOps, and Generative AI
 
 ###
 
-<h6 align="left">🌟 Highly interested in Software Architecture, DDD, BDD, TDD, ATDD, and SDD</h6>
+🌟 Highly interested in Software Architecture, DDD, BDD, TDD, ATDD, and SDD
 
 ###
 
-<h6 align="left">📫 How to reach me soul12358@gmail.com</h6>
+❤️ Also interested in medical fields such as medical information, medical imaging, and cardiology.
+
+###
+
+📫 How to reach me: [soul12358@gmail.com](soul12358@gmail.com)
 
 ###
 
